@@ -1,0 +1,3 @@
+Omelet	1.45
+French Omelet	2.45
+Total 3.18

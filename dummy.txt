@@ -1,0 +1,58 @@
+We can define AI as, "Artificial Intelligence is a branch of computer science that deals with developing intelligent machines which can behave like human, think like human, and has ability to take decisions by their own."
+With AI, machines can have human-based skills such as learning, reasoning, and solving logical problems.
+AI is one of the fastest-growing technology that is making human life much easier by providing solutions for complex problems. It has also brought different opportunities for everyone, and hence it is a very demanding technology in the market.
+History of Artificial Intelligence
+Artificial intelligence is assumed a new technology, but in reality, it is not new. The researchers in the field of AI are much older. It is said that the concept of intelligent machines was found in Greek Mythology. Below are some keystones in the development of AI:
+In the year 1943, Warren McCulloch and Walter pits proposed a model of Artificial neurons.
+In the year 1950, Alan Turing published a "Computer Machinery and Intelligence" paper in which he introduced a test, known as a Turing Test. This test is used to determine intelligence in machines by checking if the machine is capable of thinking or not.
+In the year 1956, for the first time, the term Artificial Intelligence was coined by the American Computer scientist John McCarthy at the Dartmouth Conference. John McCarthy is also known as the Father of AI.
+In the year 1972, the first full-scale intelligent humanoid robot, WABOT1, was created in Japan.
+In the year 1980, AI came with the evolution of Expert Systems. These systems are computer programs, which are designed to solve complex problems.
+In the year 1997, IBM Deep Blue beat world chess champion Gary Kasparov and became the first computer to defeat a world chess champion.
+In the year 2006, AI came into the business world. World's top companies like Facebook, Twitter, and Netflix also started using AI in their applications.
+Advantages & disadvantages of AI
+Advantages:
+One of the biggest achievements of Artificial Intelligence is that it can reduce human error.
+AI can be very helpful in risky situations where humans can't reach or find difficult survival. Such as exploring the deepest part of the sea.
+With AI, 24*7 support can be provided to the customers using chatbots as customer care.
+Repetitive actions can be boring for human beings, but with AI-enabled machines, they can be performed with full efficiency.
+It is very helpful in daily activities, such as Google Assistant Alexa, and other virtual assistant technology are helping to make our life easier.
+Disadvantages:
+The development and maintenance of AI systems are very expensive.
+The dependencies of human beings on such technologies making humans lazy.
+There is always a fear with AI that if it gets advanced, it may be harmful to humanity.
+If inputs are not fed correctly to AI systems, then it may cause harmful results.
+Types of AI
+Artificial Intelligence Essay
+On the basis of Capability, AI can be divided into mainly three types:
+1. Narrow AI or Weak AI: Narrow AI or Weak AI is a basic kind of Artificial Intelligence, which is capable of completing dedicated tasks with intelligence. The current version of AI is narrow AI.
+Narrow AI can only perform the specific task and not beyond its limitation, as they are trained for one task only. It is programmed to do a specific task such as Play Chess, Checking Weather, etc.
+2. General AI:
+Artificial General intelligence or "Strong" AI defines the machines that can show human intelligence. We can say, Machines with AGI can successfully perform any intellectual task that a human can do. This is the sort of AI that we see in movies like "Her" or other sci-fi movies in which humans interact with machines and operating systems that are conscious, sentient, and driven by emotion and self-awareness.
+Currently, this type of intelligence does not exist in the real world and only exist in researches and movies. However, researchers across the world are working to develop such machines, which is still a very difficult task.
+3. Super AI
+Super AI refers to AI that is self-aware, with cognitive abilities that surpass that of humans. It is a level where machines are capable of doing any task that a human can do with cognitive properties. However, Super AI is still a hypothetical concept, and it is a challenging task to develop such AI-enabled machines.
+On the basis of Functionality:
+1. Reactive Machines
+Reactive machines are the basic types of AI, which don't store memories or past experiences for their actions. These types of AI machines only focus on current scenarios and work as per the requirement with the best possible actions. IBM's Deep Blue is an example of a reactive machine.
+2. Limited Memory
+Limited memory can store some memory or past experiences for a limited time period. Some examples of limited memory are Self-driving cars.
+3. Theory of Mind
+Theory of Mind is the type of AI which are capable of understanding human emotions, and interact with the human in their way. However, such AI machines are yet not developed, and developers and researchers are making efforts for creating such AI-enabled machines
+4. Self-awareness
+Self-awareness AI is the future of Artificial Intelligence, which will have its own awareness, sentiments, and consciousness. This AI is only a hypothetical concept and will take a long journey and challenges to create such AI.
+Applications of AI
+1. Game Playing:
+AI is widely used in Gaming. Different strategic games such as Chess, where the machine needs to think logically, and video games to provide real-time experiences use Artificial Intelligence.
+2. Robotics:
+Artificial Intelligence is commonly used in the field of Robotics to develop intelligent robots. AI implemented robots use real-time updates to sense any obstacle in their path and can change the path instantly. AI robots can be used for carrying goods in hospitals and industries and can also be used for other different purposes.
+3. Healthcare:
+In the healthcare sector, AI has diverse uses. In this field, AI can be used to detect diseases and cancer cells. It also helps in finding new drugs with the use of historical data and medical intelligence.
+4. Computer Vision:
+Computer vision enables the computer system to understand and derive meaningful information from digital images, video, and other visual input with the help of AI.
+5. Agriculture:
+AI is now widely used in Agriculture; for example, with the help of AI, we can easily identify defects and nutrient absences in the soil. To identify these defects, AI robots can be utilized. AI bots can also be used in crop harvesting at a higher speed than human workers.
+6. E-commerce
+AI is one of the widely used and demanding technologies in the E-commerce industry. With AI, e-commerce businesses are gaining more profit and grow in business by recommending products as per the user requirement.
+7. Social Media
+Different social media websites such as Facebook, Instagram, Twitter, etc., use AI to make the user experiences much better by providing different features. For example, Twitter uses AI to recommend tweets as per the user interest and search history.

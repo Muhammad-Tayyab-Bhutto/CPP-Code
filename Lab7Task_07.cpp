@@ -1,0 +1,34 @@
+#include <iostream>
+using namespace std;
+
+void Arr()
+{
+    int rang;
+    cout<<"Enter the size of array: ";
+    cin>>rang;
+    int *arr = new int[rang];
+    int *swapArr = new int[rang];
+    for (int i = 0; i < rang; i++)
+    {
+        cout<<"enter value number "<<1+i<<": ";
+        cin>>arr[i];
+        swapArr[i] = arr[i];
+    }
+
+    cout<<"\nThe values of first array: ";
+    for (int i = 0; i < rang; i++)
+    {
+        cout<<arr[i]<<" ";        
+    }
+
+    cout<<endl<<"The values of second array: ";
+    for (int i = rang-1; i >= 0; i--)
+    {
+        cout<<swapArr[i]<<" ";        
+    }
+}
+int main()
+{
+    Arr();
+    return 0;
+}

@@ -1,0 +1,13 @@
+#include <bits/std++.h>
+using namespace std;
+
+int main(){
+int tNumbers
+cin >> tNumbers;
+while(tNumbers--){
+long long int B, C;
+cin >> B >> C;
+cout << c/__gcd(B,C)<<endl;
+}
+return 0;
+}
